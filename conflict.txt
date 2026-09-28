@@ -1,1 +1,1 @@
-версія з main, оновлена
+версія з main і conflict_test разом
